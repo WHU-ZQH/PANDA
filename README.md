@@ -6,5 +6,5 @@ Appendix for the under-review paper "PANDA: Prompt Transfer Meets Knowledge Dist
 <!-- * <a href="https://github.com/WHU-ZQH/PANDA/blob/main/www-appendix.pdf">Appendix</a>
 * <a href="https://github.com/WHU-ZQH/PANDA/tree/main/p-tuning-v2">Code</a> -->
 
-* <a href="https://anonymous.4open.science/r/PANDA-WWW23/www-appendix.pdf">Appendix</a>
-* <a href="https://anonymous.4open.science/r/PANDA-WWW23/p-tuning-v2/run.py">Code</a>
+* Appendix: please refer to "www-appendix.pdf"
+* Code: please refer to "p-tuning-v2"
