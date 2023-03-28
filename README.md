@@ -1,7 +1,7 @@
 # PANDA
 
 ***
-This is the official implementation of our paper, "PANDA: Prompt Transfer Meets Knowledge Distillation for Efficient Model Adaptation".
+This is the official implementation of our paper, "[PANDA: Prompt Transfer Meets Knowledge Distillation for Efficient Model Adaptation](https://arxiv.org/pdf/2208.10160.pdf)".
 
 ## Citation
 If you find this work helpful, please consider citing as follows:  
