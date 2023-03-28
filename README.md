@@ -1,10 +1,16 @@
 # PANDA
 
 ***
-Appendix for the under-review paper "PANDA: Prompt Transfer Meets Knowledge Distillation for Efficient Model Adaptation" submitted to the web conference (WWW2023 for short).
+This is the official implementation of our paper, "PANDA: Prompt Transfer Meets Knowledge Distillation for Efficient Model Adaptation".
 
-<!-- * <a href="https://github.com/WHU-ZQH/PANDA/blob/main/www-appendix.pdf">Appendix</a>
-* <a href="https://github.com/WHU-ZQH/PANDA/tree/main/p-tuning-v2">Code</a> -->
+## Citation
+If you find this work helpful, please consider citing as follows:  
 
-* Appendix: please refer to "./www-appendix.pdf"
-* Code: please refer to "./p-tuning-v2"
+```ruby
+@article{zhong2022panda,
+  title={Panda: Prompt transfer meets knowledge distillation for efficient model adaptation},
+  author={Zhong, Qihuang and Ding, Liang and Liu, Juhua and Du, Bo and Tao, Dacheng},
+  journal={arXiv preprint arXiv:2208.10160},
+  year={2022}
+}
+```
